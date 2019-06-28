@@ -10,7 +10,7 @@ sudo apt-get install ukuu
 clone this repo and cd to "rtl8821ce"
 I've already made a simple script, so just run it  
 ```
-.run.sh
+. run.sh
 ```
 P.S. install GCC if you got an error related to compiler
 
