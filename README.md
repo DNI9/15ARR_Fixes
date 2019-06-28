@@ -20,5 +20,7 @@ I don't know about other distros, i tried on Ubuntu 18.04
 
 ## References
 [https://gist.github.com/debojyoti/228729498628e898497557db57619a28](https://gist.github.com/debojyoti/228729498628e898497557db57619a28)
+
 [https://github.com/MSF-Jarvis/ideapad-330-linux](https://github.com/MSF-Jarvis/ideapad-330-linux)
+
 [https://github.com/tomaspinho/rtl8821ce](https://github.com/tomaspinho/rtl8821ce)
