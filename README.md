@@ -1,6 +1,6 @@
 # Lenovo Ideapad 330 15ARR fixes for Linux
 
-Touchpad will work after updating kernel to 5.X +
+Touchpad will work after updating kernel to 5.X + 
 Update your kernel using UKUU
 ```
 sudo add-apt-repository ppa:teejee2008/ppa
