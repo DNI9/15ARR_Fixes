@@ -13,7 +13,7 @@ I've already made a simple script, so just run it
 ```
 . run.sh
 ```
-P.S. install GCC if you got an error related to compiler
+P.S. install GCC if you encounter an error related to compiler
 
 WiFi should start working after the process
 
