@@ -22,7 +22,7 @@ WiFi should start working after the process
 If you face only black screen after starting installation, try setting "nomodeset" (without quotes) in the grub menu by pressing e
 like this:
 ```
-quite splash nomodeset
+quiet splash nomodeset
 ```
 hit ctrl + x or F10 to continue installling, after finishing  installation, update kernel to the stable , 5.x+ recommended and then update distro packages, distro should run fine now.
 
