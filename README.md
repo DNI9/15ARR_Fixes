@@ -24,7 +24,7 @@ like this:
 ```
 quite splash nomodeset
 ```
-hit ctrl + x or F10 to continue installling, after finishing  installation, update kernel to the stable , 5.x+ recommended and then update distro packages, distro should now run fine now.
+hit ctrl + x or F10 to continue installling, after finishing  installation, update kernel to the stable , 5.x+ recommended and then update distro packages, distro should run fine now.
 
 ## References
 [https://gist.github.com/debojyoti/228729498628e898497557db57619a28](https://gist.github.com/debojyoti/228729498628e898497557db57619a28)
