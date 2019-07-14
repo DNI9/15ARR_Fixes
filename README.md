@@ -13,11 +13,18 @@ I've already made a simple script, so just run it
 ```
 . run.sh
 ```
-P.S. install GCC if you encounter an error related to compiler
+## Note 
+install GCC if you encounter an error related to compiler
 
 WiFi should start working after the process
 
-I don't know about other distros, i tried on Ubuntu 18.04
+## Note: 
+If you face only black screen after starting installation, try setting "nomodeset" (without quotes) in the grub menu by pressing e
+like this:
+```
+quite splash nomodeset
+```
+hit ctrl + x or F10 to continue installling, after finishing  installation, update kernel to the stable , 5.x+ recommended and then update distro packages, distro should now run fine now.
 
 ## References
 [https://gist.github.com/debojyoti/228729498628e898497557db57619a28](https://gist.github.com/debojyoti/228729498628e898497557db57619a28)
