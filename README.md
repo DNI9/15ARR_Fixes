@@ -18,7 +18,7 @@ install GCC if you encounter an error related to compiler
 
 WiFi should start working after the process
 
-## Note: 
+## Black Screen Fix: 
 If you face only black screen after starting installation, try setting "nomodeset" (without quotes) in the grub menu by pressing e
 like this:
 ```
