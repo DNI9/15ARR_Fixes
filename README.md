@@ -1,6 +1,6 @@
 # Lenovo Ideapad 330 15ARR fixes for Linux
 
-> Update for 2021: Everything seems to be working out of the box now (remember to update distro post installation) , for ubuntu base distros, go to drivers (usually in software) and select rtl8821ce and apply and then reboot.
+> Update for 2021: Everything seems to be working out of the box now (remember to update distro post packages installation) , for ubuntu base distros, go to drivers (usually in software) and select rtl8821ce and apply and then reboot.
 > or go here and follow https://github.com/tomaspinho/rtl8821ce
 
 Touchpad will work after updating kernel to 5.X + 
