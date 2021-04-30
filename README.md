@@ -1,5 +1,8 @@
 # Lenovo Ideapad 330 15ARR fixes for Linux
 
+> Update for 2021: Everything seems to be working out of the box now, for ubuntu base distros, go to drivers (usually in software) and select rtl8821ce and apply and then reboot.
+> or go here and follow https://github.com/tomaspinho/rtl8821ce
+
 Touchpad will work after updating kernel to 5.X + 
 
 Update your kernel using UKUU
@@ -7,7 +10,7 @@ Update your kernel using UKUU
 sudo add-apt-repository ppa:teejee2008/ppa
 sudo apt-get install ukuu
 ```
-## To Fix wifi
+## To Fix wifi (Old)
 clone this repo and cd to "rtl8821ce"
 I've already made a simple script, so just run it  
 ```
